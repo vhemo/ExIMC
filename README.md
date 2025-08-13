@@ -1,2 +1,2 @@
 # ExIMC
-IMC: Cálculo de Índice de Massa Corporal
+Programa para realizar o Cálculo de Índice de Massa Corporal por JS.
